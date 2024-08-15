@@ -1,0 +1,13 @@
+{
+  "name": "com.cubicsystem.model.sdunitychan",
+  "displayName": "Model SD UnityChan",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.unity.toonshader": "0.10.1-preview"
+  },
+  "description": "sd unitychan model set",
+  "keywords": [
+    "unitychan"
+  ]
+}
